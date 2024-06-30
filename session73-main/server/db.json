@@ -1,0 +1,15 @@
+{
+    "tasks": [
+      { 
+        "id": 1, 
+        "name": "Quét nhà", 
+        "completed": true 
+      },
+      { 
+        "id": 2, 
+        "name": "Giặt quần áo", 
+        "completed": false 
+      }
+    ]
+}
+  
